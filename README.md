@@ -6,12 +6,13 @@ Suitable for text documents, where the expected result is black text on a white 
 
 ## Requirements
 
+- A set of JPEG images of documents that you want to turn into a combined PDF
 - Python 3
 - Pipenv
 
 ## Usage
 
-Run the following command in the same directory as this project, and substitute the arguments ($IMAGE_1, $IMAGE_2, ... ) for the file paths of the images you want to process and turn into a combined PDF.
+Run the following command in the same directory as this project, and substitute the arguments ($IMAGE_1, $IMAGE_2, ... ) for the file paths of the images you want to process and turn into a combined PDF. Supply the file names in the order that they should appear in the PDF
 
 ```
 pipenv run python main.py $IMAGE_1 $IMAGE_2 ...
