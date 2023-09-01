@@ -1,4 +1,4 @@
-# Document Images to PDF
+# Document Images to PDF in Python (Dippy)
 
 Need to scan some documents, but don't have a scanner to hand, and don't want to pay an IPhone app to do it? Then here is a not so user-friendly (but free) way to do it!
 
